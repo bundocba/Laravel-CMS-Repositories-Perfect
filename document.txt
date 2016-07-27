@@ -1,0 +1,5 @@
+SMS sạch chỉ vừa viết phân quyền , thể loại , bài viết , biệt danh , menu link
+Sử dụng laravel 5.2
+Sử dung design patern muti module dùng pingpong package
+Dễ dàng chuyển đổi hệ quản trị cơ sở mongo , hay mysql mà không tốn công sử code nhiều
+Tạo sẳn các mục sẵn , chỉ việc phát triển tiếp 
