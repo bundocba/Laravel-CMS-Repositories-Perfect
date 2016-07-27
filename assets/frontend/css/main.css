@@ -1,0 +1,9 @@
+.logo {
+    background-image: url('../img/logo.png');
+    height: 40px;
+    width: 120px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    float: left;
+    margin-top: 25px;
+}
